@@ -31,7 +31,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p>
-<img width="486em" src="https://github-readme-stats.vercel.app/api?username=JoaooVictorDev&show_icons=true&theme=material-palenight" alt="JoaooVictorDev's stats"/>
+<img width="480em" src="https://github-readme-stats.vercel.app/api?username=JoaooVictorDev&show_icons=true&theme=material-palenight" alt="JoaooVictorDev's stats"/>
 <img width="485em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaooVictorDev&layout=compact&theme=material-palenight" alt="JoaooVictorDev's most languages"/>
 </p>
 
