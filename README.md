@@ -15,7 +15,7 @@
   
 </p>
   
-- 🔭 Atualmente, estou trabalhando como Co-Produtor na Seller Mentoria.
+- 🔭 Atualmente, estou trabalhando como Auxiliar de E-commerce na Fipal Fiat.
 - 📚 Estudando Tecnólogo em Análise e Desenvolvimento de Sistemas na Unifacetie.
 - 💬 Tecnologias:
 
