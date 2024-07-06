@@ -1,4 +1,3 @@
-<img align="right" border="2px" height="300em"  src="https://cdn.picrew.me/shareImg/org/202304/1813184_0YDc4wpa.png">
 
 <p>
 <h1 >Olá, Eu sou João Victor</h1>  
